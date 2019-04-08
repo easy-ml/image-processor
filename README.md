@@ -1,1 +1,1 @@
-# image-processor
+# Image Processor
